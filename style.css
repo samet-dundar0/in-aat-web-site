@@ -1,0 +1,28 @@
+body{
+    font-family: "Lato", sans-serif !important;
+}
+
+
+.projectpictur img{
+    max-height: 500px;
+  
+}
+
+.card img{
+    border-radius: 50%;
+    width: 50% !important;
+    margin: 20px auto;
+}
+
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+
+footer{
+    height: 90px;
+}
+
+footer i{
+    cursor: pointer;
+}
